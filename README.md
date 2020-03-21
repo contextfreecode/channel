@@ -1,2 +1,1 @@
-# channel
-Context Free Channel - Newsletter &amp; Info
+# Context Free Channel - Newsletter &amp; Info

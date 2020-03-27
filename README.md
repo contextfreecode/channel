@@ -9,6 +9,6 @@
   - *Subscribe if you like programming languages!*
 - [Context Free newsletter](https://github.com/contextfreecode/channel/issues)
   - Highlights each week from around the web, including news from Context Free
-  - *Also planned to be available by email soon!*
+  - Click watch above or [use an RSS feed](http://gh-feed.imsun.net/contextfreecode/channel/issues?q=label%3Anewsletter)
 
 Link here via: http://contextfree.info

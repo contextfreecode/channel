@@ -13,4 +13,4 @@ Other things:
 - Twitter feed: https://twitter.com/contextfreeinfo
 - Languish trends: https://tjpalmer.github.io/languish/
 
-Link here via: http://contextfree.info
+Link here via: https://contextfree.info/

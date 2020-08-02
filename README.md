@@ -4,11 +4,12 @@
 
 # Context Free Channel
 
-- [Context Free video channel](https://www.youtube.com/channel/UCS4FAVeYW_IaZqAbqhlvxlA)
-  - Weekly video on programming language topics
+- YouTube channel: https://www.youtube.com/c/ContextFree
+  - Videos on programming language topics, usually every week or two
   - *Subscribe if you like programming languages!*
-- [Context Free subreddit](https://www.reddit.com/r/contextfree/)
-  - News, views, and talk about programming languages
-  - Includes news from Context Free
+- Subreddit: https://www.reddit.com/r/contextfree/
+  - Mostly news and views links on programming languages that I find interesting
+- Twitter feed: https://twitter.com/contextfreeinfo
+  - New, and likely to be a lot of the same links as on the subreddit
 
 Link here via: http://contextfree.info

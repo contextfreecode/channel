@@ -4,7 +4,7 @@
 
 # Context Free Channel
 
-- YouTube channel: https://www.youtube.com/c/ContextFree
+- YouTube channel: https://youtube.com/c/ContextFree
   - Videos on programming language topics, usually every week or two
   - *Subscribe if you like programming languages!*
 - Subreddit: https://reddit.com/r/contextfree/

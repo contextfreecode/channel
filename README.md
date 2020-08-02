@@ -5,11 +5,12 @@
 # Context Free Channel
 
 - YouTube channel: https://youtube.com/c/ContextFree
-  - Videos on programming language topics, usually every week or two
-  - *Subscribe if you like programming languages!*
+
+Other things:
+
+- GitHub: https://github.com/contextfreecode
 - Subreddit: https://reddit.com/r/contextfree/
-  - Mostly news and views links on programming languages that I find interesting
 - Twitter feed: https://twitter.com/contextfreeinfo
-  - New, and likely to be a lot of the same links as on the subreddit
+- Languish trends: https://tjpalmer.github.io/languish/
 
 Link here via: http://contextfree.info

@@ -4,11 +4,13 @@
 
 # Context Free Channel
 
-- [Context Free video channel](https://www.youtube.com/channel/UCS4FAVeYW_IaZqAbqhlvxlA)
-  - Weekly video on programming language topics
-  - *Subscribe if you like programming languages!*
-- [Context Free subreddit](https://www.reddit.com/r/contextfree/)
-  - News, views, and talk about programming languages
-  - Includes news from Context Free
+- YouTube channel: https://youtube.com/c/ContextFree
 
-Link here via: http://contextfree.info
+Other things:
+
+- GitHub: https://github.com/contextfreecode
+- Subreddit: https://reddit.com/r/contextfree/
+- Twitter feed: https://twitter.com/contextfreeinfo
+- Languish trends: https://tjpalmer.github.io/languish/
+
+Link here via: https://contextfree.info/

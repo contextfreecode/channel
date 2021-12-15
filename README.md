@@ -8,9 +8,10 @@
 
 Other things:
 
+- Discord: https://discord.gg/4yJM5MbcAp
 - GitHub: https://github.com/contextfreecode
-- Subreddit: https://reddit.com/r/contextfree/
-- Twitter feed: https://twitter.com/contextfreeinfo
+- Reddit: https://reddit.com/r/contextfree/
+- Twitter: https://twitter.com/contextfreeinfo
 - Languish trends: https://tjpalmer.github.io/languish/
 
 Link here via: https://contextfree.info/

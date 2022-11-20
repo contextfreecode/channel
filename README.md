@@ -4,7 +4,7 @@
 
 # Context Free Channel
 
-- YouTube channel: https://youtube.com/ContextFree
+- YouTube channel: https://youtube.com/@contextfree
 
 Other things:
 

@@ -8,10 +8,10 @@
 
 Other things:
 
+- Languish trends: https://tjpalmer.github.io/languish/
 - Discord: https://discord.gg/4yJM5MbcAp
+- Mastodon: <a rel="me" href="https://hachyderm.io/@contextfree">https://hachyderm.io/@contextfree</a>
 - GitHub: https://github.com/contextfreecode
 - Reddit: https://reddit.com/r/contextfree/
-- Twitter: https://twitter.com/contextfreeinfo
-- Languish trends: https://tjpalmer.github.io/languish/
 
 Link here via: https://contextfree.info/

@@ -12,7 +12,7 @@ Other things:
 - Languish trends: https://tjpalmer.github.io/languish/
 - Discord: https://discord.gg/4yJM5MbcAp
 - Mastodon: <a rel="me" href="https://hachyderm.io/@contextfree">https://hachyderm.io/@contextfree</a>
-- Bluesky: https://bsky.app/profile/contextfree.bsky.social
+- Bluesky: https://contextfree.bsky.social/
 - GitHub: https://github.com/contextfreecode
 - Reddit: https://reddit.com/r/contextfree/
 
